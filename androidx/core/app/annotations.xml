@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.core.app.ShareCompat'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
